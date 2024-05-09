@@ -1,0 +1,19 @@
+{
+  "name": "my-typescript-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^3.0.0",
+    "googleapis": "^100.0.0",
+    "openai": "^0.2.3",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.5.5"
+  }
+}
